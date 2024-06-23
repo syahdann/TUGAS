@@ -1,4 +1,4 @@
 # TUGAS
 - NAMA : MUHAMMAD SYAHDAN JUNUS
 - NIM : 312210285
-[TUGAS IMK PERTEMUAN 15.pdf](https://github.com/user-attachments/files/15942759/TUGAS.IMK.PERTEMUAN.15.pdf)
+- [TUGAS IMK PERTEMUAN 15.pdf](https://github.com/user-attachments/files/15942759/TUGAS.IMK.PERTEMUAN.15.pdf)
